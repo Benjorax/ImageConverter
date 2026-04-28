@@ -1,3 +1,4 @@
+#LEGACY
 import argparse
 from converter import ImageConverter
 
