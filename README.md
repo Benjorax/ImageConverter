@@ -4,7 +4,7 @@
 
 ## Скачать
 
-[Download latest version](https://github.com/Benjorax/releases)
+[Download latest version](https://github.com/Benjorax/ImageConverter/releases)
 
 ## Быстрый старт - Скачай и используй — без установки Python.
 
@@ -22,3 +22,5 @@
 - Лог операций
 - Тёмная тема интерфейса
 - Обработка прозрачности
+
+## Возможности В наличии CLI версия
